@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nitya
-- 👀 I’m interested in exploring linux and python
+- 👀 I’m interested in cybersecurity 
 - 🌱 I’m currently learning C
-- 📫 How to reach me: discord laelia1064 or email- nityakapoor2799@gmail.com
+- 📫 How to reach me: linkedin
 - 😄 Pronouns: she/her
-- 🐧 Fun Fact: imma noob 
+- 🐧 currently 
