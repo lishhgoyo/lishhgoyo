@@ -6,7 +6,8 @@
 - 🌱 Currently exploring and learning about technologies
 - 📫 Contact me- nityakapoor2799@gmail.com
 - ⚡ fun trivia- I love art and reading
-- 🐧 Want to explore more of digital art 
+- 🐧 Want to explore more of digital art
+- 🐈 'cry'ptography
 
 ## 🔧 Technologies & Tools
 - **Languages**: Python, HTML, C
@@ -18,7 +19,7 @@
 ## 🌱 Currently Learning
 I'm currently exploring the following areas:
 -  web devlopment
--  Crptography
+-  Cryptography
 
 ## 🤝 Let's Connect
 I'm always open to collaborating on projects and learning new things. Let's connect and create something amazing together!
